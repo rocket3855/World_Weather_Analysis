@@ -1,3 +1,0 @@
-weather_api_key="f2702eb220f868b4d913ae11297985e6"
-nyt_api_key="z1SFRBhJOWJAtp5RAvxcdD09hYFhYH3p"
-g_key="AIzaSyCBIlO-w47bi2BNp8VEgLjAp26WqgBK24s"
